@@ -2,7 +2,7 @@
 
 ## Table of Content
   * [Demo](#demo)
-  * [Blog](#https://medium.com/@tarun.k0/predicting-airfare-price-using-machine-learning-techniques-ec8c19728efd)
+  * [Blog](#Blog)
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Installation](#installation)
@@ -18,6 +18,9 @@ Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-
 [![](https://i.imgur.com/R1g2wvC.png)](https://flight-price-prediction-api.herokuapp.com/)
 
 [![](https://i.imgur.com/p0aeL6c.png)](https://flight-price-prediction-api.herokuapp.com/)
+
+## Blog
+You can read more about this project in detail on my [blog](https://medium.com/@tarun.k0/predicting-airfare-price-using-machine-learning-techniques-ec8c19728efd).
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
