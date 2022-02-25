@@ -2,6 +2,7 @@
 
 ## Table of Content
   * [Demo](#demo)
+  * [Blog](#https://medium.com/@tarun.k0/predicting-airfare-price-using-machine-learning-techniques-ec8c19728efd)
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Installation](#installation)
