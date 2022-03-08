@@ -15,9 +15,9 @@
 ## Demo
 Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)
 
-(![image](https://user-images.githubusercontent.com/92631457/157175321-010204a0-7291-4f29-9402-2a6f99b6ce93.png))
+![image](https://user-images.githubusercontent.com/92631457/157175321-010204a0-7291-4f29-9402-2a6f99b6ce93.png)
 
-[![](https://i.imgur.com/p0aeL6c.png)](https://flight-price-prediction-api.herokuapp.com/)
+![image](https://user-images.githubusercontent.com/92631457/157175638-5053f233-5039-4ea8-9e16-068ed16128ae.png)
 
 ## Blog
 You can read more about this project in detail on my [blog](https://medium.com/@tarun.k0/predicting-airfare-price-using-machine-learning-techniques-ec8c19728efd).
